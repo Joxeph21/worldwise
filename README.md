@@ -4,13 +4,11 @@ World Wise is a web application that allows users to set their location and leav
 
 ## Features
 
+- **Global Map:** Have access to the map globally.
 - **Location Setting:** Easily set your current location.
 - **Note Taking:** Leave notes and memories for each location you visit.
 - **Responsive Design:** Optimized for both desktop and mobile devices.
 
-## Screenshots
-
-_Add screenshots of your application here._
 
 ## Installation
 
